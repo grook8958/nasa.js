@@ -1,0 +1,24 @@
+{
+  "name": "nasa.js",
+  "version": "0.0.1",
+  "description": "An API Wrapper used to interact between the many open NASA APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grook8958/nasa.js.git"
+  },
+  "keywords": [
+    "api",
+    "nasa",
+    "nasa.js"
+  ],
+  "author": "grook8958",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grook8958/nasa.js/issues"
+  },
+  "homepage": "https://github.com/grook8958/nasa.js#readme"
+}
